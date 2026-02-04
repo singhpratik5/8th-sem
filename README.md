@@ -7,3 +7,4 @@
 4. CIP:
 5. Network Security
 6. Blockchain technology
+ Minors on 13th
