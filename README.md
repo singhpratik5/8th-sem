@@ -11,3 +11,5 @@
 
 10th
  Minors on 13th
+
+Prepare for minors..
