@@ -7,6 +7,7 @@
 4. CIP:
 5. Network Security
 6. Blockchain technology
+7. UHV: Assignment to be done
 
 
 10th
